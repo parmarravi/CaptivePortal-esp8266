@@ -1,0 +1,62 @@
+
+body{
+		background: url('../pattern.png') repeat 0 0;
+		margin:0;
+		font-size:12px;
+		overflow:hidden;
+		position:relative;
+		behavior: url(js/PIE.htc); 
+		-ms-overflow-style: scrollbar;
+		overflow: scroll;
+	}
+	.main{
+	
+	margin: 0px 0px;
+}
+.mainbodysbi{
+    border: 0px solid black;
+	margin:20px;
+	position:relative;
+    background-color: white;
+    padding-top: 20px;
+    padding-right:9px;
+    padding-bottom: 300px;
+    padding-left: 21px;
+	height: 3000px;
+	}
+// Center responsive images
+.img-responsive.img-center {
+  margin: 50px auto;
+}
+.centered{
+	position:relative;
+	text-align:center;
+	font-size:30px;
+}
+.custom {
+    width: 200px !important;
+	height:50px;
+	
+}
+.header{
+	margin: 52px 52px;
+}
+.contactbox{
+    border: 0px solid black;
+	margin:100px;
+	position:relative;
+    background-color: black;
+    padding-top: 20px;
+    padding-right:19px;
+    padding-bottom: 300px;
+    padding-left: 21px;
+	height: 300px;
+	
+}
+	.textcolor{
+		
+		color:green;
+	}
+	.savingh1color{
+		color:blue;
+	}
